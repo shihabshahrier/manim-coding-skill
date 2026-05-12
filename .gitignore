@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.env.local
+
+# ManimGL render output
+**/output/chunks/
+**/output/final/
+**/media/
+
+# macOS
+**/.DS_Store
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+/tmp/

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "test-manim",
+  "description": "Create teaching-quality STEM animations with ManimGL. Narrative-driven, chunk-based, works with any AI model.",
+  "owner": {
+    "name": "Shahriar",
+    "url": "https://github.com/shihabshahrier"
+  },
+  "plugins": [
+    {
+      "name": "test-manim",
+      "description": "Give any model a topic. Get back a ManimGL STEM teaching animation.",
+      "source": "./",
+      "category": "education"
+    }
+  ]
+}

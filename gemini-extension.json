@@ -1,0 +1,6 @@
+{
+  "name": "test-manim",
+  "description": "Create teaching-quality STEM animations with ManimGL. Narrative-driven, chunk-based, works with any AI model.",
+  "version": "1.0.0",
+  "contextFileName": "GEMINI.md"
+}

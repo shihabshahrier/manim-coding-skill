@@ -1,0 +1,8 @@
+{
+  "name": "test-manim",
+  "description": "Create teaching-quality STEM animations with ManimGL. 15-second narrative chunks merged into a final video. Works with any model.",
+  "author": {
+    "name": "Shahriar",
+    "url": "https://github.com/shihabshahrier"
+  }
+}
