@@ -182,3 +182,7 @@ To suggest changes to the prompt strategies, API definitions, or storytelling te
 > Do not edit the editor-specific copies (`.cursor/`, `.windsurf/`, `.clinerules/`) directly. They are auto-generated and synchronized from the main source of truth files.
 
 *Let's build stunning educational visualizations together!* 🚀
+
+---
+
+📖 **Project page:** https://shihub.online/projects/manim-coding-skill
